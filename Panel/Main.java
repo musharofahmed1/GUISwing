@@ -52,4 +52,5 @@ public class Main {
         frame.add(bluePanel);
         frame.add(greenPanel);
     }
+    
 }
