@@ -3,7 +3,7 @@ import javax.swing.JFrame;
 import java.awt.Color;
 import javax.swing.*;
 import javax.swing.JLayeredPane;
-public class JlayPane {
+public class JLPane {
     public static void main(String[]args){
         //J layered Pane = Swing container that provides a third dimension 
         //               for positioning components ex.depth,z-index
